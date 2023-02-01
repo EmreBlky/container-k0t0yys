@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "alidoom2010",
+  "repo": "container-k0t0yys",
+  "name": "alidoom2010",
+}
